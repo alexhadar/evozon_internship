@@ -4,3 +4,4 @@ file 1 created in intellij
 VERDE = fisiere create pentru prima data, care nu sunt nici in repository-ul local
 ROSU = fisierele nu sunt luate in considerare
 ALB = Fisierul a fost comis cu succes.
+ALBASTRU = Fisierul a fost modificat local, are un echivalent in repository-ul local
