@@ -1,3 +1,2 @@
-This is main file. This has been added now
-1. ALEX HADAR
-// This part's been added from IntelliJ
+This is main file.
+1.https://github.com/alexhadar/evozon_internship.git
