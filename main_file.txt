@@ -4,4 +4,4 @@ This is main file.
 wadada
 gsdvbhvshbdjs
 gsdvbhvshbdjs
-anoter line added to test the .gitignore file
+anoter line added to test the .gitignore file <- Alex Hadar
