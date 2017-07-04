@@ -2,4 +2,6 @@ This is main file.
 Am sters 1.
 Adaugat 2.
 Modificat next
-
+Modificat text2.
+Modificat text3.
+Modificat everywhere.
